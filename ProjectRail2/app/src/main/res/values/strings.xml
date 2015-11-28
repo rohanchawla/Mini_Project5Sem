@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectRail</string>
+    <string name="title_activity_source">SourceMap</string>
+    <string name="title_activity_input">Input Train Number</string>
+    <string name="title_activity_destination">Destination</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_route">Train Route</string>
+</resources>
